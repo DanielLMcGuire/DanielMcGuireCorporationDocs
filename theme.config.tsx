@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/VZRF3Sk5k8',
   },
-  docsRepositoryBase: 'https://github.com/DanielLMcGuire/',
+  docsRepositoryBase: 'https://github.com/DanielLMcGuire/DanielMcGuireCorporationDocs',
   footer: {
     text: 'GitHub',
   },
